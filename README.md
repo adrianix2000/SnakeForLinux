@@ -23,3 +23,15 @@ and then run as container using following command:
 docker run -it --rm snake
 ```
 
+You can also download the ready image with the game from my Docker Hub (monio359 is my another mysterious nickname ;)).
+
+```bash
+docker pull monio359/snakeforlinux:1.0.0
+```
+
+ I wish you to enjoy this game, and I hope you might feel like adding something cool to this project (for example cool main menu would be great :))
+
+ ## How it looks like
+
+
+![](./preview.png)
